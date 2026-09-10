@@ -1,5 +1,4 @@
 #  if statement
-hhhhh
 
 #name=input('enter name:')
 #if name=='durga':
@@ -14,6 +13,11 @@ hhhhh
 #else:
 #    print("incorrect")
 
+
+
+
+
+
 # if elif else statement
 
 '''brand=input(' name name:')
@@ -26,7 +30,7 @@ elif brand=='jtv':
 else:
     print("its not a brand")
 '''
-
+'''jjjj'''
 """number between 1 and 100
 
 n=int(input("enter thr number:"))
