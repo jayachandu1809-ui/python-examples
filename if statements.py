@@ -1,6 +1,6 @@
 #  if statement
 
-#name=input('enter name:')
+#name=input('enter :')
 #if name=='durga':
  #   print("correct")
 #print('no')
